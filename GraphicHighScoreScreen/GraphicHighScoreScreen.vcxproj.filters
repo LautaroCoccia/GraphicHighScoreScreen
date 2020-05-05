@@ -23,5 +23,14 @@
     <ClInclude Include="..\HighScore-Lib\Include\highscore.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="..\dependencies\include\nana\gui.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\dependencies\include\nana\gui\widgets\label.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\dependencies\include\nana\gui\widgets\button.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
